@@ -12,7 +12,7 @@ export default function Header() {
               <Menu className="h-6 w-6" />
             </div>
             <span className="text-2xl font-bold text-gray-900">
-              All<span className="text-blue-600">ToolsRowdy</span>
+              All<span className="text-blue-600">Tools</span>
             </span>
           </Link>
 
